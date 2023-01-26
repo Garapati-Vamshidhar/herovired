@@ -1,1 +1,1 @@
-print("first stash")
+print('its ok!!!')
